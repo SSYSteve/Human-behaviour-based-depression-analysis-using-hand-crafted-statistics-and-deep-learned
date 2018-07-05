@@ -26,8 +26,8 @@ It also convert a series of data that have various lengths to heat maps that hav
 
 We haven't show the CNN training scripts because CNN strcutures always depend on the task and users may use different platforms. 
 
-If you use this code, please kindly cite our paper:
+# If you use this code, please kindly cite our paper:
 
-# Song, Siyang, Linlin Shen, and Michel Valstar. "Human behaviour-based automatic depression analysis using hand-crafted statistics and deep learned spectral features." Automatic Face & Gesture Recognition (FG 2018), 2018 13th IEEE International Conference on. IEEE, 2018.
+Song, Siyang, Linlin Shen, and Michel Valstar. "Human behaviour-based automatic depression analysis using hand-crafted statistics and deep learned spectral features." Automatic Face & Gesture Recognition (FG 2018), 2018 13th IEEE International Conference on. IEEE, 2018.
 
 If you have any probelm, please contact siyang.song@nottingham.ac.uk
