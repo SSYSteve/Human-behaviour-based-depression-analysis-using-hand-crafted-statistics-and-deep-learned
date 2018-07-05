@@ -7,6 +7,8 @@ Song, Siyang, Linlin Shen, and Michel Valstar. "Human behaviour-based automatic 
 The paper link is available in 
 
 https://ieeexplore.ieee.org/document/8373825/ 
+
 or 
+
 http://eprints.nottingham.ac.uk/51476/1/human-behaviour-based%20camera%20ready.pdf
 
