@@ -32,6 +32,7 @@ We haven't show the CNN training scripts because CNN strcutures always depend on
 
 ![alt text](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned/blob/master/Figure/Picture1.png)
 
+![alt text](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned/blob/master/Figure/Picture2.png)
 
 
 
