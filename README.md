@@ -18,6 +18,7 @@ spectrum_map_gen.m:          demo for processing more than one data
 
 spectrum_map_gen_single.m:   demo for processing a single data 
 
+
 # Comments
 
 The code is the data transformation part of the paper.
@@ -27,6 +28,8 @@ It convert long multi-channel time-sereis data to two small spectrum heatmaps wi
 It also convert data of variable lengths to heatmaps of fixed size.
 
 We haven't show the CNN training scripts because CNN strcutures always depend on the task and users may use different platforms. 
+
+
 
 # If you decide to use this code, please kindly cite our paper:
 
