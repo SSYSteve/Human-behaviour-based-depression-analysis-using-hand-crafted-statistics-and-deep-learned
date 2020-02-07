@@ -26,11 +26,15 @@ It also convert data of variable lengths to heatmaps of fixed size.
 
 We haven't show the CNN training scripts because CNN strcutures always depend on the task and users may use different platforms. 
 
+# Approach overview
 
-![alt text](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned/blob/master/Figure/Picture1.png)
+![alt text](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned/blob/master/Figure/pipeline.png)
 
-![alt text](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned/blob/master/Figure/Picture2.png)
+![alt text](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned/blob/master/Figure/CNN.png)
 
+# Ablation study result
+
+![alt text](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned/blob/master/Figure/ccc_per_behaviour.png)
 
 
 # If you decide to use the code or data here, please kindly cite our papers:
