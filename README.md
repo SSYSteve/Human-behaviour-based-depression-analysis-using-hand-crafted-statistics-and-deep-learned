@@ -11,9 +11,9 @@ This is the spectral data transformation code used for two papers:
 
 You only need to use MATLAB to open the following files
 
-spectrum_map_gen.m:          demo for processing more than one data 
+demo_extract_feature_select.m:  demo for extracting spectral map and features using the first frequency alignment method (select) in [2]
 
-spectrum_map_gen_single.m:   demo for processing a single data 
+demo_extract_feature_resample.m:   demo for extracting spectral map and features using the second frequency alignment method (resample) in [2]
 
 
 # Comments
