@@ -1,14 +1,11 @@
 # Human behaviour-based automatic depression analysis using hand-crafted statistics and deep learned spectral features
 
-This is the data transformation matlab code used for oral presentation of FG 2018
+This is the spectral data transformation code used for two papers:
 
-The paper link is available in 
+[1] Human behaviour-based automatic depression analysis using hand-crafted statistics and deep learned spectral features (oral presentation of FG 2018, link: https://ieeexplore.ieee.org/document/8373825/)
 
-https://ieeexplore.ieee.org/document/8373825/ 
+[2] Spectral Representation of Behaviour Primitives for Depression Analysis (IEEE Transactions on Affective Computing, link: https://ieeexplore.ieee.org/abstract/document/8976305)
 
-or 
-
-http://eprints.nottingham.ac.uk/51476/1/human-behaviour-based%20camera%20ready.pdf
 
 # Get started
 
@@ -21,7 +18,7 @@ spectrum_map_gen_single.m:   demo for processing a single data
 
 # Comments
 
-The code is the data transformation part of the paper.
+The code is the data transformation part of the above papers.
 
 It convert long multi-channel time-sereis data to two small spectrum heatmaps without any distoration. The amplitude spectrum map contains amplitude information while phase spectrum map contains termporal dynamics information.
 
@@ -36,9 +33,9 @@ We haven't show the CNN training scripts because CNN strcutures always depend on
 
 
 
-# If you decide to use this code, please kindly cite our paper:
+# If you decide to use the code or data here, please kindly cite our papers:
 
-Song, Siyang, Linlin Shen, and Michel Valstar. "Human behaviour-based automatic depression analysis using hand-crafted statistics and deep learned spectral features." Automatic Face & Gesture Recognition (FG 2018), 2018 13th IEEE International Conference on. IEEE, 2018.
+[1] Song, Siyang, Linlin Shen, and Michel Valstar. "Human behaviour-based automatic depression analysis using hand-crafted statistics and deep learned spectral features." Automatic Face & Gesture Recognition (FG 2018), 2018 13th IEEE International Conference on. IEEE, 2018.
 
 @inproceedings{song2018human,
   title={Human behaviour-based automatic depression analysis using hand-crafted statistics and deep learned spectral features},
@@ -47,6 +44,16 @@ Song, Siyang, Linlin Shen, and Michel Valstar. "Human behaviour-based automatic 
   pages={158--165},
   year={2018},
   organization={IEEE}
+}
+
+[2] Song, Siyang, Shashank Jaiswal, Linlin Shen, and Michel Valstar. "Spectral Representation of Behaviour Primitives for Depression Analysis." IEEE Transactions on Affective Computing (2020). 
+
+@article{song2020spectral,
+  title={Spectral Representation of Behaviour Primitives for Depression Analysis},
+  author={Song, Siyang and Jaiswal, Shashank and Shen, Linlin and Valstar, Michel},
+  journal={IEEE Transactions on Affective Computing},
+  year={2020},
+  publisher={IEEE}
 }
 
 If you have any probelm, you are more than welcome to contact siyang.song@nottingham.ac.uk
