@@ -1,3 +1,7 @@
+% Song, Siyang, Shashank Jaiswal, Linlin Shen, and Michel Valstar
+% Spectral Representation of Behaviour Primitives for Depression Analysis.
+% IEEE Transactions on Affective Computing (2020)
+% Email: siyang.song@nottingham.ac.uk
 function videoFea = getVideoFeature( feaVec )
 
 feaNum = size(feaVec,1);
