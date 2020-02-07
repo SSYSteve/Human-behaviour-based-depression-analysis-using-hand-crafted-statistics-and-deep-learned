@@ -1,3 +1,7 @@
+% Song, Siyang, Shashank Jaiswal, Linlin Shen, and Michel Valstar
+% Spectral Representation of Behaviour Primitives for Depression Analysis.
+% IEEE Transactions on Affective Computing (2020)
+% Email: siyang.song@nottingham.ac.uk
 function [ flat_data ] = flat_data( data, t_length, N)
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here
