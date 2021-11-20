@@ -1,0 +1,15 @@
+clear all;clc
+
+
+%% setting
+
+Primitive_num = 29; % the number of behaviour signals
+
+fre_resolution = 128; % the number of frequency kept
+
+file_name = 'example_data.mat';
+
+N = 2000; % the 
+
+
+%%
