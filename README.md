@@ -74,4 +74,4 @@ if you requires the feature selection detatils for the depression tasks present 
   publisher={IEEE}
 }
 
-If you have any probelm, you are more than welcome to contact siyang.song@nottingham.ac.uk
+If you have any probelm, you are more than welcome to contact ss2796@cam.ac.uk
