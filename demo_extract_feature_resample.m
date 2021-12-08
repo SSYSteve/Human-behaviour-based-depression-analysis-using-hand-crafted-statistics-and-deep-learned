@@ -24,8 +24,6 @@ raw_data = load(file_name); % load data
 
 raw_data = raw_data.example_data;
 
-raw_data = raw_data';
-
 processed_data = preprocess(raw_data); % substracting median values, ypu can customized your own preprocess method here
 
 processed_data = processed_data';
@@ -39,23 +37,6 @@ sta_fea = getVideoFeature(processed_data); % compute statistics features
 amp_flat_data = flat_data(amp_map,t_length, N);% 1-D amplitude feature generation
 
 phase_flat_data = flat_data(phase_map,t_length, N);% 1-D phase feature generation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
